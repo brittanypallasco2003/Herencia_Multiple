@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a088d9cd-e000-4cd0-91f7-455e5cc06ed0" name="Changes" comment="ATRIBUTOS">
-      <change beforePath="$PROJECT_DIR$/src/Hijo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hijo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nieta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nieta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nieto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nieto.java" afterDir="false" />
-    </list>
+    <list default="true" id="a088d9cd-e000-4cd0-91f7-455e5cc06ed0" name="Changes" comment="Create workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,13 +57,45 @@
       <option name="project" value="LOCAL" />
       <updated>1687265441497</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ATRIBUTOS - Clase Hijo">
+      <created>1687265864326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687265864326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ATRIBUTOS - Clase Nieta">
+      <created>1687265877030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687265877030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ATRIBUTOS - Clase Nieto">
+      <created>1687265885083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687265885083</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create workspace.xml">
+      <created>1687265906787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687265906787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="ATRIBUTOS" />
-    <option name="LAST_COMMIT_MESSAGE" value="ATRIBUTOS" />
+    <MESSAGE value="ATRIBUTOS - Clase Hijo" />
+    <MESSAGE value="ATRIBUTOS - Clase Nieta" />
+    <MESSAGE value="ATRIBUTOS - Clase Nieto" />
+    <MESSAGE value="Create workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
