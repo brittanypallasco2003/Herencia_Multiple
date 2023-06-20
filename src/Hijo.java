@@ -8,6 +8,10 @@ public class Hijo {
         this.grosor_cejas = grosor_cejas;
     }
 
+    public Hijo() {
+
+    }
+
     public String getTipo_cabello() {
         return tipo_cabello;
     }

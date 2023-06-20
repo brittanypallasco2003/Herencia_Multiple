@@ -1,9 +1,10 @@
-public class Nieto {
+public class Nieto extends Hijo{
     //ATRIBUTOS
     int pecas;
     String color_pecas;
 
     public Nieto(int pecas, String color_pecas) {
+        super();
         this.pecas = pecas;
         this.color_pecas = color_pecas;
     }

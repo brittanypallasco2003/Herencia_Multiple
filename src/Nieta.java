@@ -1,9 +1,10 @@
-public class Nieta {
+public class Nieta extends Hijo{
     //ATRIBUTOS
     String forma_ojos;
     int largo_nariz;
 
     public Nieta(String forma_ojos, int largo_nariz) {
+        super();
         this.forma_ojos = forma_ojos;
         this.largo_nariz = largo_nariz;
     }
