@@ -1,9 +1,10 @@
-public class Prima {
+public class Prima extends Tia {
     //ATRIBUTOS
     private String forma_orejas;
     private String lobulo;
 
-    public Prima(String forma_orejas, String lobulo) {
+    public Prima(String tipo_sangre, String color_ojos, String forma_cabello, int medida_cabello, String rizos, String forma_orejas, String lobulo) {
+        super(tipo_sangre, color_ojos, forma_cabello, medida_cabello, rizos);
         this.forma_orejas = forma_orejas;
         this.lobulo = lobulo;
     }

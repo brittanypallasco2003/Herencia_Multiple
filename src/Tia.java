@@ -1,9 +1,10 @@
-public class Tia {
+public class Tia extends Abuelo{
     //ATRIBUTOS
     private int medida_cabello;
     private String rizos;
 
-    public Tia(int medida_cabello, String rizos) {
+    public Tia(String tipo_sangre, String color_ojos, String forma_cabello, int medida_cabello, String rizos) {
+        super(tipo_sangre, color_ojos, forma_cabello);
         this.medida_cabello = medida_cabello;
         this.rizos = rizos;
     }
