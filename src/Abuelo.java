@@ -12,6 +12,10 @@ public class Abuelo {
         this.forma_cabello = forma_cabello;
     }
 
+    public Abuelo() {
+
+    }
+
     //GETTERS Y SETTERS
 
 

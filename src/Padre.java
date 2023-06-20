@@ -11,6 +11,10 @@ public class Padre extends Abuelo {
         this.color_cabello=color_cabello;
         this.color_piel=color_piel;
     }
+
+    public Padre() {
+        super();
+    }
     //GETTERS Y SETTERS
 
     public String getColor_cabello() {

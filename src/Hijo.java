@@ -1,14 +1,16 @@
-public class Hijo {
+public class Hijo extends Padre{
     //ATRIBUTOS
     String tipo_cabello;
     String grosor_cejas;
 
     public Hijo(String tipo_cabello, String grosor_cejas) {
+        super();
         this.tipo_cabello = tipo_cabello;
         this.grosor_cejas = grosor_cejas;
     }
 
     public Hijo() {
+        super();
 
     }
 
